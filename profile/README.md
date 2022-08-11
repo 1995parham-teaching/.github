@@ -2,7 +2,8 @@
   <img height=200px src="https://github.com/cng-by-example/.github/raw/main/profile/img/banner.png"></img>
 </p>
 
-Welcome to our learning repository. Here we have materials on different things from C programming to Go, documentation etc. Feel free to contribute and use 
+Welcome to our teaching material's repository. Here we have materials on different things from C programming to Go, documentation etc.
+Feel free to contribute and als use 
 them in your learning journey. you can also checkout my personal learning organization [here](https://github.com/1995parham-learning).
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/cng-by-example?style=social)
