@@ -3,7 +3,7 @@
 </p>
 
 Welcome to our learning repository. Here we have materials on different things from C programming to Go, documentation etc. Feel free to contribute and use 
-them in your learning journey.
+them in your learning journey. you can also checkout my personal learning organization [here](https://github.com/1995parham-learning).
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/cng-by-example?style=social)
 
