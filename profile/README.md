@@ -16,6 +16,7 @@ You can also review my personal learning organization [here](https://github.com/
   - [dallal](https://github.com/1995parham-teaching/dallal)
 - C Programming
   - [c-lecture](https://github.com/1995parham-teaching/c-lecture)
+  - [c-exam](https://github.com/1995parham-teaching/c-exam)
   - [TanhaDarKhaneh](https://github.com/1995parham-teaching/TanhaDarKhaneh)
 - Go Programming
   - [hello-go](https://github.com/1995parham-teaching/hello-go)
