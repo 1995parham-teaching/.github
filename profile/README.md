@@ -20,6 +20,8 @@ You can also review my personal learning organization [here](https://github.com/
   - [TanhaDarKhaneh](https://github.com/1995parham-teaching/TanhaDarKhaneh)
 - Internet Engineering
   - [ie-lecture](https://github.com/1995parham-teaching/ie-lecture)
+  - [ie-assignmets](https://github.com/1995parham-teaching/ie-assignmets)
+  - [ie-exam](https://github.com/1995parham-teaching/ie-exam)
 - Go Programming
   - [hello-go](https://github.com/1995parham-teaching/hello-go)
   - [fandogh](https://github.com/1995parham-teaching/fandogh)
