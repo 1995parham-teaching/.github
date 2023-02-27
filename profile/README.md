@@ -1,7 +1,7 @@
 # Hello 👋, Welcome to my courses repositories
 
 <p align="center">
-  <img height=200px src="https://github.com/cng-by-example/.github/raw/main/profile/img/banner.png"></img>
+  <img height=200px src="https://github.com/cng-by-example/.github/raw/main/profile/img/banner.svg"></img>
 </p>
 
 Here I have materials on different courses from C programming to Go,
