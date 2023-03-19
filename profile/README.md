@@ -30,6 +30,7 @@ You can also review my personal learning organization [here](https://github.com/
     [spring-2022](https://github.com/1995parham-teaching/students-spring-2022),
     [fall 2021](https://github.com/1995parham-teaching/students-fall-2021),
     [spring 2022](https://github.com/1995parham-teaching/students-spring-2022),
-    [summer 2022](https://github.com/1995parham-teaching/students-summer-2022)
+    [summer 2022](https://github.com/1995parham-teaching/students-summer-2022),
+    [fall 2022](https://github.com/1995parham-teaching/students-fall-2022)
 - Ad-Hoc
   - [effective-documentation](https://github.com/1995parham-teaching/effective-documentation)
