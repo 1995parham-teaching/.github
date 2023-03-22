@@ -1,4 +1,4 @@
-# Hello 👋, Welcome to my courses repositories
+<h1 align="center"> A Panda who teaches </h1>
 
 <p align="center">
   <img height=200px src="https://github.com/cng-by-example/.github/raw/main/profile/img/banner.svg"></img>
@@ -9,7 +9,14 @@
 Here I have materials on different courses from C programming to Go,
 documentation etc. Feel free to contribute and also use
 them in your learning journey.
-You can also review my personal learning organization [here](https://github.com/1995parham-learning).
+
+Please let me know if you have any comments or issues about these repositories.
+Many of these repositories are hands-on projects and you can use them to see
+how I solved some popular challenges and also try to implement them by yourself.
+
+Programming doesn't have rules so you may not agree with the way I solved a problem,
+in those cases please stick to your way (or your team way). Also, you can let me know
+about your way by posting an issue.
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/1995parham-teaching?style=social)
 
