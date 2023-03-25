@@ -35,7 +35,7 @@ about your way by posting an issue.
   - [ie-exam](https://github.com/1995parham-teaching/ie-exam)
 - Go Programming
   - [hello-go](https://github.com/1995parham-teaching/hello-go): Introduction to Go 
-  - [fandogh](https://github.com/1995parham-teaching/fandogh)
+  - [fandogh](https://github.com/1995parham-teaching/fandogh): Backend implementation demonstration in go with JWT, MongoDB, etc.
   - [record-appender](https://github.com/1995parham-teaching/record-appender)
   - [song_cloud](https://github.com/1995parham-teaching/song_cloud)
   - students.go: Hands-on project with database, configuration, logging, etc. written during a go programming course in live coding sessions.
