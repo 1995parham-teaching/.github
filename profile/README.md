@@ -37,7 +37,7 @@ about your way by posting an issue.
   - [hello-go](https://github.com/1995parham-teaching/hello-go): Introduction to Go 
   - [fandogh](https://github.com/1995parham-teaching/fandogh): Backend implementation demonstration in go with JWT, MongoDB, etc.
   - [record-appender](https://github.com/1995parham-teaching/record-appender)
-  - [song_cloud](https://github.com/1995parham-teaching/song_cloud)
+  - [song_cloud](https://github.com/1995parham-teaching/song_cloud): Minimal Soundcloud just for having fun with databases 
   - students.go: Hands-on project with database, configuration, logging, etc. written during a go programming course in live coding sessions.
     - [fall-2020](https://github.com/1995parham-teaching/students-fall-2020),
     - [spring-2022](https://github.com/1995parham-teaching/students-spring-2022),
