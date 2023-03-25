@@ -34,15 +34,17 @@ about your way by posting an issue.
   - [ie-assignmets](https://github.com/1995parham-teaching/ie-assignmets)
   - [ie-exam](https://github.com/1995parham-teaching/ie-exam)
 - Go Programming
-  - [hello-go](https://github.com/1995parham-teaching/hello-go)
+  - [hello-go](https://github.com/1995parham-teaching/hello-go): Introduction to Go 
   - [fandogh](https://github.com/1995parham-teaching/fandogh)
+  - [record-appender](https://github.com/1995parham-teaching/record-appender)
   - [song_cloud](https://github.com/1995parham-teaching/song_cloud)
-  - students [fall-2020](https://github.com/1995parham-teaching/students-fall-2020),
-    [spring-2022](https://github.com/1995parham-teaching/students-spring-2022),
-    [fall 2021](https://github.com/1995parham-teaching/students-fall-2021),
-    [spring 2022](https://github.com/1995parham-teaching/students-spring-2022),
-    [summer 2022](https://github.com/1995parham-teaching/students-summer-2022),
-    [fall 2022](https://github.com/1995parham-teaching/students-fall-2022)
+  - students.go: Hands-on project with database, configuration, logging, etc. written during a go programming course in live coding sessions.
+    - [fall-2020](https://github.com/1995parham-teaching/students-fall-2020),
+    - [spring-2022](https://github.com/1995parham-teaching/students-spring-2022),
+    - [fall 2021](https://github.com/1995parham-teaching/students-fall-2021),
+    - [spring 2022](https://github.com/1995parham-teaching/students-spring-2022),
+    - [summer 2022](https://github.com/1995parham-teaching/students-summer-2022),
+    - [fall 2022](https://github.com/1995parham-teaching/students-fall-2022)
 - Ad-Hoc
   - [effective-documentation](https://github.com/1995parham-teaching/effective-documentation)
 
