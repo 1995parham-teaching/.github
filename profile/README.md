@@ -9,7 +9,7 @@
 Here we have materials on different courses from C programming to Go,
 documentation etc. Feel free to contribute and also use
 them in your learning journey. Specificly Parham teaches Programming things
-and Elahe falls in love with Machine learning and data scientist.
+and Elahe falls in love with Machine learning and data science.
 
 Please let us know if you have any comments or issues about these repositories.
 Many of these repositories are hands-on projects and you can use them to see
