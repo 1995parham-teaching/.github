@@ -1,4 +1,4 @@
-<h1 align="center"> A Panda who teaches </h1>
+<h1 align="center"> A Panda and a nut who teach </h1>
 
 <p align="center">
   <img height=200px src="https://github.com/cng-by-example/.github/raw/main/profile/img/banner.svg"></img>
@@ -6,16 +6,17 @@
 
 ## Introduction
 
-Here I have materials on different courses from C programming to Go,
+Here we have materials on different courses from C programming to Go,
 documentation etc. Feel free to contribute and also use
-them in your learning journey.
+them in your learning journey. Specificly Parham teaches Programming things
+and Elahe falls in love with Machine learning and data scientist.
 
-Please let me know if you have any comments or issues about these repositories.
+Please let us know if you have any comments or issues about these repositories.
 Many of these repositories are hands-on projects and you can use them to see
-how I solved some popular challenges and also try to implement them by yourself.
+how we solved some popular challenges and also try to implement them by yourself.
 
-Programming doesn't have rules so you may not agree with the way I solved a problem,
-in those cases please stick to your way (or your team way). Also, you can let me know
+Programming doesn't have rules so you may not agree with the way we solved a problem,
+in those cases please stick to your way (or your team way). Also, you can let us know
 about your way by posting an issue.
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/1995parham-teaching?style=social)
