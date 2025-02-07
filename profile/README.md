@@ -1,7 +1,7 @@
 <h1 align="center"> A Panda and a nut who teach </h1>
 
 <p align="center">
-  <img height=200px src="https://github.com/cng-by-example/.github/raw/main/profile/img/banner.jpg"></img>
+  <img height=500px src="https://github.com/cng-by-example/.github/raw/main/profile/img/banner.jpg"></img>
 </p>
 
 ## Introduction
