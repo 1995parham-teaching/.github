@@ -1,7 +1,7 @@
 <h1 align="center"> A Panda and a nut who teach </h1>
 
 <p align="center">
-  <img height=200px src="https://github.com/cng-by-example/.github/raw/main/profile/img/banner.svg"></img>
+  <img height=200px src="https://github.com/cng-by-example/.github/raw/main/profile/img/banner.jpg"></img>
 </p>
 
 ## Introduction
@@ -31,10 +31,10 @@ In such instances, we encourage you to follow the method that works best for you
   - [ie-assignmets](https://github.com/1995parham-teaching/ie-assignmets)
   - [ie-exam](https://github.com/1995parham-teaching/ie-exam)
 - Go Programming
-  - [hello-go](https://github.com/1995parham-teaching/hello-go): Introduction to Go 
+  - [hello-go](https://github.com/1995parham-teaching/hello-go): Introduction to Go
   - [fandogh](https://github.com/1995parham-teaching/fandogh): Backend implementation demonstration in go with JWT, MongoDB, etc.
   - [record-appender](https://github.com/1995parham-teaching/record-appender)
-  - [song_cloud](https://github.com/1995parham-teaching/song_cloud): Minimal Soundcloud just for having fun with databases 
+  - [song_cloud](https://github.com/1995parham-teaching/song_cloud): Minimal Soundcloud just for having fun with databases
   - students.go: Hands-on project with database, configuration, logging, etc. written during a go programming course in live coding sessions.
     - [fall-2020](https://github.com/1995parham-teaching/students-fall-2020),
     - [spring-2022](https://github.com/1995parham-teaching/students-spring-2022),
@@ -44,7 +44,6 @@ In such instances, we encourage you to follow the method that works best for you
     - [fall 2022](https://github.com/1995parham-teaching/students-fall-2022)
 - Ad-Hoc
   - [effective-documentation](https://github.com/1995parham-teaching/effective-documentation)
-
 
 ## Acknowledgements
 
