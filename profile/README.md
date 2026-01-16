@@ -7,7 +7,7 @@
 ## Introduction
 
 Here, we offer materials on a variety of courses ranging from C programming to Go, along with documentation and more.
-You are encouraged to contribute and utilize these resources on your learning journey. Specifically, Parham specializes in teaching programming concepts, while Elahe is passionate about machine learning and data science.
+You are encouraged to contribute and utilize these resources on your learning journey. Specifically, Parham specializes in teaching programming concepts, while Elaheh is passionate about machine learning and data science.
 
 Please feel free to share any comments or raise issues concerning these repositories. Many include hands-on projects which provide insight into how we’ve tackled some popular challenges.
 You’re invited to explore and attempt implementing solutions on your own.
