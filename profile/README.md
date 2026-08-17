@@ -44,8 +44,3 @@ In such instances, we encourage you to follow the method that works best for you
     - [fall 2022](https://github.com/1995parham-teaching/students-fall-2022)
 - Ad-Hoc
   - [effective-documentation](https://github.com/1995parham-teaching/effective-documentation)
-
-## Acknowledgements
-
-- [Negin Amjadi](https://dribbble.com/Amjadi_)
-- [catalyst](https://dribbble.com/catalystvibes)
