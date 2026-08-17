@@ -147,7 +147,7 @@ That one is the workbench. This one is curated.
 ---
 
 <p align="center">
-  <img alt="a white bear and a grey bear teaching together at a board" width="300" src="https://raw.githubusercontent.com/1995parham-teaching/.github/main/profile/img/us.svg">
+  <img alt="the two of us, teaching" width="220" src="https://raw.githubusercontent.com/1995parham-teaching/.github/main/profile/img/us.gif">
 </p>
 
 <p align="center">
