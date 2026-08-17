@@ -137,6 +137,13 @@ but the exercises hold up.
 
 </details>
 
+## The other half
+
+Everything here was prepared for someone else to follow — courses, lectures, and exercises
+with a beginning and an end. The scratchpads where we work things out for ourselves, one
+technology at a time, live in [1995parham-learning](https://github.com/1995parham-learning).
+That one is the workbench. This one is curated.
+
 ---
 
 <p align="center">

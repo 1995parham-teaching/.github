@@ -43,12 +43,24 @@
     <ellipse cx="239" cy="381" rx="15" ry="20" fill="#0d1117" transform="rotate(-26 239 381)"/>
     <ellipse cx="277" cy="381" rx="15" ry="20" fill="#0d1117" transform="rotate(26 277 381)"/>
 
-    <circle cx="241" cy="384" r="5.5" fill="#fbfdff"/>
-    <circle cx="275" cy="384" r="5.5" fill="#fbfdff"/>
-    <circle cx="242" cy="385" r="3.2" fill="#0d1117"/>
-    <circle cx="274" cy="385" r="3.2" fill="#0d1117"/>
-    <circle cx="240.7" cy="383.6" r="1.4" fill="#ffffff"/>
-    <circle cx="272.7" cy="383.6" r="1.4" fill="#ffffff"/>
+    <ellipse cx="241" cy="384" rx="5.5" ry="5.5" fill="#fbfdff">
+      <animate attributeName="ry" values="5.5;5.5;0.5;5.5;5.5" keyTimes="0;0.93;0.955;0.98;1" dur="5.2s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="275" cy="384" rx="5.5" ry="5.5" fill="#fbfdff">
+      <animate attributeName="ry" values="5.5;5.5;0.5;5.5;5.5" keyTimes="0;0.93;0.955;0.98;1" dur="5.2s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="242" cy="385" rx="3.2" ry="3.2" fill="#0d1117">
+      <animate attributeName="ry" values="3.2;3.2;0.3;3.2;3.2" keyTimes="0;0.93;0.955;0.98;1" dur="5.2s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="274" cy="385" rx="3.2" ry="3.2" fill="#0d1117">
+      <animate attributeName="ry" values="3.2;3.2;0.3;3.2;3.2" keyTimes="0;0.93;0.955;0.98;1" dur="5.2s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="240.7" cy="383.6" rx="1.4" ry="1.4" fill="#ffffff">
+      <animate attributeName="ry" values="1.4;1.4;0.15;1.4;1.4" keyTimes="0;0.93;0.955;0.98;1" dur="5.2s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="272.7" cy="383.6" rx="1.4" ry="1.4" fill="#ffffff">
+      <animate attributeName="ry" values="1.4;1.4;0.15;1.4;1.4" keyTimes="0;0.93;0.955;0.98;1" dur="5.2s" repeatCount="indefinite"/>
+    </ellipse>
 
     <path d="M249 396 Q258 391 267 396 Q267 405 258 409 Q249 405 249 396 Z" fill="#0d1117"/>
     <path d="M258 409 L258 414" fill="none" stroke="#0d1117" stroke-width="3" stroke-linecap="round"/>
@@ -67,10 +79,18 @@
     <ellipse cx="384" cy="428" rx="8" ry="5" fill="#e8836a" opacity="0.35"/>
     <ellipse cx="440" cy="428" rx="8" ry="5" fill="#e8836a" opacity="0.35"/>
 
-    <circle cx="394" cy="412" r="6" fill="#3d2a18"/>
-    <circle cx="430" cy="412" r="6" fill="#3d2a18"/>
-    <circle cx="392.2" cy="410.2" r="1.7" fill="#ffffff"/>
-    <circle cx="428.2" cy="410.2" r="1.7" fill="#ffffff"/>
+    <ellipse cx="394" cy="412" rx="6" ry="6" fill="#3d2a18">
+      <animate attributeName="ry" values="6;6;0.5;6;6" keyTimes="0;0.93;0.955;0.98;1" dur="6.7s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="430" cy="412" rx="6" ry="6" fill="#3d2a18">
+      <animate attributeName="ry" values="6;6;0.5;6;6" keyTimes="0;0.93;0.955;0.98;1" dur="6.7s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="392.2" cy="410.2" rx="1.7" ry="1.7" fill="#ffffff">
+      <animate attributeName="ry" values="1.7;1.7;0.2;1.7;1.7" keyTimes="0;0.93;0.955;0.98;1" dur="6.7s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="428.2" cy="410.2" rx="1.7" ry="1.7" fill="#ffffff">
+      <animate attributeName="ry" values="1.7;1.7;0.2;1.7;1.7" keyTimes="0;0.93;0.955;0.98;1" dur="6.7s" repeatCount="indefinite"/>
+    </ellipse>
 
     <path d="M399 429 Q 412 441 425 429" fill="none" stroke="#3d2a18" stroke-width="3.2" stroke-linecap="round"/>
   </g>
@@ -92,6 +112,11 @@
     <text x="648" y="480"><tspan class="txt">    fmt.</tspan><tspan class="fn">Println</tspan><tspan class="txt">(</tspan><tspan class="str">"Hello, world!"</tspan><tspan class="txt">)</tspan></text>
     <text x="648" y="510"><tspan class="txt">}</tspan></text>
   </g>
+
+  <!-- a cursor, still blinking: there is always more to teach -->
+  <rect x="662" y="496" width="10" height="18" fill="#c9d1d9">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;0.5" calcMode="discrete" dur="1.06s" repeatCount="indefinite"/>
+  </rect>
 
   <text class="sans" x="80" y="600" font-size="20" fill="#8b949e">github.com/1995parham-teaching</text>
 </svg>
