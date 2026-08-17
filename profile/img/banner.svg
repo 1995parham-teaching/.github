@@ -26,33 +26,54 @@
   <text class="sans" x="80" y="158" font-size="23" fill="#8b949e">C · Python · Go · Networking · Kubernetes · Infrastructure · LLMs</text>
   <line x1="80" y1="188" x2="1200" y2="188" stroke="#30363d" stroke-width="2"/>
 
-  <!-- panda -->
+  <!-- the two of them: a panda and a nut -->
+  <g transform="translate(331 389) scale(1.14) translate(-331 -389)">
+  <ellipse cx="331" cy="389" rx="150" ry="95" fill="#ffffff" opacity="0.05"/>
+
+  <!-- the panda -->
   <g>
-    <circle cx="330" cy="378" r="104" fill="#ffffff" opacity="0.05"/>
-    <circle cx="278" cy="311" r="28" fill="#0d1117" stroke="#484f58" stroke-width="2"/>
-    <circle cx="382" cy="311" r="28" fill="#0d1117" stroke="#484f58" stroke-width="2"/>
-    <circle cx="278" cy="311" r="13" fill="#30363d"/>
-    <circle cx="382" cy="311" r="13" fill="#30363d"/>
-    <circle cx="330" cy="375" r="66" fill="#f0f6fc"/>
-    <ellipse cx="306" cy="364" rx="18" ry="24" fill="#0d1117" transform="rotate(-18 306 364)"/>
-    <ellipse cx="354" cy="364" rx="18" ry="24" fill="#0d1117" transform="rotate(18 354 364)"/>
-    <circle cx="308" cy="366" r="6.5" fill="#f0f6fc"/>
-    <circle cx="352" cy="366" r="6.5" fill="#f0f6fc"/>
-    <circle cx="308" cy="367" r="3" fill="#0d1117"/>
-    <circle cx="352" cy="367" r="3" fill="#0d1117"/>
-    <ellipse cx="330" cy="398" rx="10" ry="7" fill="#0d1117"/>
-    <path d="M330 405 Q 320 419 309 409" fill="none" stroke="#0d1117" stroke-width="3.5" stroke-linecap="round"/>
-    <path d="M330 405 Q 340 419 351 409" fill="none" stroke="#0d1117" stroke-width="3.5" stroke-linecap="round"/>
+    <circle cx="222" cy="342" r="22" fill="#0d1117" stroke="#484f58" stroke-width="2"/>
+    <circle cx="294" cy="342" r="22" fill="#0d1117" stroke="#484f58" stroke-width="2"/>
+    <circle cx="222" cy="342" r="10" fill="#2d333b"/>
+    <circle cx="294" cy="342" r="10" fill="#2d333b"/>
+
+    <circle cx="258" cy="390" r="54" fill="#e8eef5"/>
+    <ellipse cx="258" cy="402" rx="29" ry="23" fill="#fbfdff"/>
+
+    <ellipse cx="239" cy="381" rx="15" ry="20" fill="#0d1117" transform="rotate(-26 239 381)"/>
+    <ellipse cx="277" cy="381" rx="15" ry="20" fill="#0d1117" transform="rotate(26 277 381)"/>
+
+    <circle cx="241" cy="384" r="5.5" fill="#fbfdff"/>
+    <circle cx="275" cy="384" r="5.5" fill="#fbfdff"/>
+    <circle cx="242" cy="385" r="3.2" fill="#0d1117"/>
+    <circle cx="274" cy="385" r="3.2" fill="#0d1117"/>
+    <circle cx="240.7" cy="383.6" r="1.4" fill="#ffffff"/>
+    <circle cx="272.7" cy="383.6" r="1.4" fill="#ffffff"/>
+
+    <path d="M249 396 Q258 391 267 396 Q267 405 258 409 Q249 405 249 396 Z" fill="#0d1117"/>
+    <path d="M258 409 L258 414" fill="none" stroke="#0d1117" stroke-width="3" stroke-linecap="round"/>
+    <path d="M258 414 Q 249 425 240 415" fill="none" stroke="#0d1117" stroke-width="3" stroke-linecap="round"/>
+    <path d="M258 414 Q 267 425 276 415" fill="none" stroke="#0d1117" stroke-width="3" stroke-linecap="round"/>
   </g>
 
-  <!-- hazelnuts -->
+  <!-- the nut -->
   <g>
-    <ellipse cx="300" cy="516" rx="24" ry="20" fill="#c69056"/>
-    <path d="M276 511 A 24 20 0 0 1 324 511 Z" fill="#8a5f3a"/>
-    <ellipse cx="360" cy="516" rx="24" ry="20" fill="#c69056"/>
-    <path d="M336 511 A 24 20 0 0 1 384 511 Z" fill="#8a5f3a"/>
-    <ellipse cx="330" cy="483" rx="24" ry="20" fill="#d19a5e"/>
-    <path d="M306 478 A 24 20 0 0 1 354 478 Z" fill="#95693f"/>
+    <path d="M412 350 l0 -12" fill="none" stroke="#6b4526" stroke-width="4.5" stroke-linecap="round"/>
+    <ellipse cx="412" cy="404" rx="50" ry="54" fill="#d19a5e"/>
+    <path d="M364.9 386 A 50 54 0 0 1 459.1 386 Z" fill="#8a5f3a"/>
+    <path d="M364.9 386 L459.1 386" stroke="#6b4526" stroke-width="2" opacity="0.5"/>
+    <ellipse cx="390" cy="398" rx="10" ry="8" fill="#ffffff" opacity="0.14" transform="rotate(-25 390 398)"/>
+
+    <ellipse cx="384" cy="428" rx="8" ry="5" fill="#e8836a" opacity="0.35"/>
+    <ellipse cx="440" cy="428" rx="8" ry="5" fill="#e8836a" opacity="0.35"/>
+
+    <circle cx="394" cy="412" r="6" fill="#3d2a18"/>
+    <circle cx="430" cy="412" r="6" fill="#3d2a18"/>
+    <circle cx="392.2" cy="410.2" r="1.7" fill="#ffffff"/>
+    <circle cx="428.2" cy="410.2" r="1.7" fill="#ffffff"/>
+
+    <path d="M399 429 Q 412 441 425 429" fill="none" stroke="#3d2a18" stroke-width="3.2" stroke-linecap="round"/>
+  </g>
   </g>
 
   <!-- code panel -->
