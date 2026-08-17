@@ -77,14 +77,12 @@ testing, added session by session. Each term starts fresh, so pick the most rece
 - **[socket.py](https://github.com/1995parham-teaching/socket.py)** — socket programming in Python, sized for one or two hands-on sessions
 - **[P2P](https://github.com/1995parham-teaching/P2P)** — a peer-to-peer network for file distribution
 - **[ion-sample](https://github.com/1995parham-teaching/ion-sample)** — WebRTC with Pion's ion-sfu
-- **[snapp-nats-architecture](https://github.com/1995parham-teaching/snapp-nats-architecture)** — NATS at Snapp: architecture, usage, and four years of incidents
 
 ## Infrastructure and cloud
 
 - **[k1s](https://github.com/1995parham-teaching/k1s)** — learn how to use Kubernetes
 - **[IaC](https://github.com/1995parham-teaching/IaC)** — an introduction to infrastructure as code
 - **[argofun](https://github.com/1995parham-teaching/argofun)** — practices worth reviewing when using ArgoCD
-- **[avee-infra-101](https://github.com/1995parham-teaching/avee-infra-101)** — onboarding to AWS and Terraform, and the daily workflow around them
 
 ## AI and data
 
