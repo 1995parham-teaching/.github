@@ -1,7 +1,7 @@
 <h1 align="center">A Panda and a nut who teach</h1>
 
 <p align="center">
-  <img alt="A panda teaching programming to a lecture hall" width="820" src="https://raw.githubusercontent.com/1995parham-teaching/.github/main/profile/img/banner.jpg">
+  <img alt="A Panda and a nut who teach — C, Python, Go, networking, Kubernetes and LLMs" width="880" src="https://raw.githubusercontent.com/1995parham-teaching/.github/main/profile/img/banner.svg">
 </p>
 
 <p align="center">

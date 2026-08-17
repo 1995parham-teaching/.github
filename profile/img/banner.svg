@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640" role="img" aria-label="A Panda and a nut who teach — C, Python, Go, networking, Kubernetes and LLMs">
+  <title>A Panda and a nut who teach</title>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#12191f"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; font-size: 19px; }
+      .kw  { fill: #ff7b72; }
+      .fn  { fill: #d2a8ff; }
+      .str { fill: #a5d6ff; }
+      .typ { fill: #79c0ff; }
+      .cmt { fill: #8b949e; }
+      .txt { fill: #c9d1d9; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="640" rx="20" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1278" height="638" rx="19" fill="none" stroke="#30363d" stroke-width="2"/>
+
+  <!-- headline -->
+  <text class="sans" x="80" y="112" font-size="54" font-weight="700" fill="#f0f6fc">A Panda and a nut who teach</text>
+  <text class="sans" x="80" y="158" font-size="23" fill="#8b949e">C · Python · Go · Networking · Kubernetes · Infrastructure · LLMs</text>
+  <line x1="80" y1="188" x2="1200" y2="188" stroke="#30363d" stroke-width="2"/>
+
+  <!-- panda -->
+  <g>
+    <circle cx="330" cy="378" r="104" fill="#ffffff" opacity="0.05"/>
+    <circle cx="278" cy="311" r="28" fill="#0d1117" stroke="#484f58" stroke-width="2"/>
+    <circle cx="382" cy="311" r="28" fill="#0d1117" stroke="#484f58" stroke-width="2"/>
+    <circle cx="278" cy="311" r="13" fill="#30363d"/>
+    <circle cx="382" cy="311" r="13" fill="#30363d"/>
+    <circle cx="330" cy="375" r="66" fill="#f0f6fc"/>
+    <ellipse cx="306" cy="364" rx="18" ry="24" fill="#0d1117" transform="rotate(-18 306 364)"/>
+    <ellipse cx="354" cy="364" rx="18" ry="24" fill="#0d1117" transform="rotate(18 354 364)"/>
+    <circle cx="308" cy="366" r="6.5" fill="#f0f6fc"/>
+    <circle cx="352" cy="366" r="6.5" fill="#f0f6fc"/>
+    <circle cx="308" cy="367" r="3" fill="#0d1117"/>
+    <circle cx="352" cy="367" r="3" fill="#0d1117"/>
+    <ellipse cx="330" cy="398" rx="10" ry="7" fill="#0d1117"/>
+    <path d="M330 405 Q 320 419 309 409" fill="none" stroke="#0d1117" stroke-width="3.5" stroke-linecap="round"/>
+    <path d="M330 405 Q 340 419 351 409" fill="none" stroke="#0d1117" stroke-width="3.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- hazelnuts -->
+  <g>
+    <ellipse cx="300" cy="516" rx="24" ry="20" fill="#c69056"/>
+    <path d="M276 511 A 24 20 0 0 1 324 511 Z" fill="#8a5f3a"/>
+    <ellipse cx="360" cy="516" rx="24" ry="20" fill="#c69056"/>
+    <path d="M336 511 A 24 20 0 0 1 384 511 Z" fill="#8a5f3a"/>
+    <ellipse cx="330" cy="483" rx="24" ry="20" fill="#d19a5e"/>
+    <path d="M306 478 A 24 20 0 0 1 354 478 Z" fill="#95693f"/>
+  </g>
+
+  <!-- code panel -->
+  <rect x="620" y="215" width="580" height="350" rx="14" fill="#010409" stroke="#30363d" stroke-width="2"/>
+  <line x1="620" y1="255" x2="1200" y2="255" stroke="#30363d" stroke-width="2"/>
+  <circle cx="646" cy="235" r="6" fill="#ff5f57"/>
+  <circle cx="668" cy="235" r="6" fill="#febc2e"/>
+  <circle cx="690" cy="235" r="6" fill="#28c840"/>
+
+  <g class="mono" xml:space="preserve">
+    <text x="648" y="300"><tspan class="cmt"># python101</tspan></text>
+    <text x="648" y="330"><tspan class="kw">def</tspan><tspan class="fn"> greet</tspan><tspan class="txt">(name: </tspan><tspan class="typ">str</tspan><tspan class="txt">) -&gt; </tspan><tspan class="typ">str</tspan><tspan class="txt">:</tspan></text>
+    <text x="648" y="360"><tspan class="txt">    </tspan><tspan class="kw">return</tspan><tspan class="str"> f"Hello, {name}!"</tspan></text>
+    <text x="648" y="420"><tspan class="cmt">// go-lecture</tspan></text>
+    <text x="648" y="450"><tspan class="kw">func</tspan><tspan class="fn"> main</tspan><tspan class="txt">() {</tspan></text>
+    <text x="648" y="480"><tspan class="txt">    fmt.</tspan><tspan class="fn">Println</tspan><tspan class="txt">(</tspan><tspan class="str">"Hello, world!"</tspan><tspan class="txt">)</tspan></text>
+    <text x="648" y="510"><tspan class="txt">}</tspan></text>
+  </g>
+
+  <text class="sans" x="80" y="600" font-size="20" fill="#8b949e">github.com/1995parham-teaching</text>
+</svg>
