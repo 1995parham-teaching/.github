@@ -102,6 +102,11 @@ in step with the assignments and exams beside it.
 - **[go-lecture](https://github.com/1995parham-teaching/go-lecture)** — introduction to Go, also the sample code for the Go lecture of the Internet Engineering course
 - **[ie-lecture](https://github.com/1995parham-teaching/ie-lecture)** — Internet Engineering, from back-end to front-end web development. reveal.js slides
 - **[is-lecture](https://github.com/1995parham-teaching/is-lecture)** — Introduction to Information Security: cryptography, access control, and system, web and network defence
+
+The exercises and papers that go with them:
+
+- **[ie-assignmets](https://github.com/1995parham-teaching/ie-assignmets)** — Internet Engineering assignments
+- **[ie-exam](https://github.com/1995parham-teaching/ie-exam)** — Internet Engineering midterm and final questions
 - **[git-exercise](https://github.com/1995parham-teaching/git-exercise)** — the first Git assignment of the AUT course
 
 ## Miscellaneous
@@ -127,8 +132,6 @@ but the exercises hold up.
 
 - [computer-networks](https://github.com/1995parham-teaching/computer-networks) — computer networking course material
 - [cn-exam](https://github.com/1995parham-teaching/cn-exam) — computer networks exam problems
-- [ie-exam](https://github.com/1995parham-teaching/ie-exam) — Internet Engineering midterm and final questions
-- [ie-assignmets](https://github.com/1995parham-teaching/ie-assignmets) — Internet Engineering assignments
 - [effective-documentation](https://github.com/1995parham-teaching/effective-documentation) — the JSON Schema example used in the IE lecture
 - [JavaIn4](https://github.com/1995parham-teaching/JavaIn4) — a Java review in four hours
 
