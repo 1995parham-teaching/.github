@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://github.com/1995parham-teaching/ie-lecture"><img alt="Internet Engineering lecture stars" src="https://img.shields.io/github/stars/1995parham-teaching/ie-lecture?style=flat-square&label=ie-lecture"></a>
   <a href="https://github.com/1995parham-teaching/go-lecture"><img alt="Go lecture stars" src="https://img.shields.io/github/stars/1995parham-teaching/go-lecture?style=flat-square&label=go-lecture"></a>
+  <a href="https://github.com/1995parham-teaching/is-lecture"><img alt="Information Security lecture stars" src="https://img.shields.io/github/stars/1995parham-teaching/is-lecture?style=flat-square&label=is-lecture"></a>
   <a href="https://github.com/1995parham-teaching/k1s"><img alt="k1s stars" src="https://img.shields.io/github/stars/1995parham-teaching/k1s?style=flat-square&label=k1s"></a>
 </p>
 
@@ -29,11 +30,13 @@ and contributions are all welcome.
 
 | If you want to learn… | Start with |
 | --- | --- |
+| Programming, from zero | [c-lecture](https://github.com/1995parham-teaching/c-lecture) → [go-lecture](https://github.com/1995parham-teaching/go-lecture) |
 | Go, from zero | [go-lecture](https://github.com/1995parham-teaching/go-lecture) → [students-fall-2023](https://github.com/1995parham-teaching/students-fall-2023) |
 | Building a real backend | [fandogh](https://github.com/1995parham-teaching/fandogh) |
 | Python | [python101](https://github.com/1995parham-teaching/python101) → [Python201](https://github.com/1995parham-teaching/Python201) |
 | Kubernetes | [k1s](https://github.com/1995parham-teaching/k1s) |
 | Web & internet engineering | [ie-lecture](https://github.com/1995parham-teaching/ie-lecture) |
+| Information security | [is-lecture](https://github.com/1995parham-teaching/is-lecture) |
 | LLMs, as a non-AI developer | [llm101](https://github.com/1995parham-teaching/llm101) |
 
 ## Go
@@ -90,9 +93,15 @@ testing, added session by session. Each term starts fresh, so pick the most rece
 - **[transformers101](https://github.com/1995parham-teaching/transformers101)** — using Transformers in Python, with Microsoft Phi
 - **[dimensionality-reduction](https://github.com/1995parham-teaching/dimensionality-reduction)** — reducing the curse of dimensionality
 
-## Internet Engineering
+## Course lectures
 
-- **[ie-lecture](https://github.com/1995parham-teaching/ie-lecture)** — the Internet Engineering course lecture and page
+The four decks taught as university courses. Each is a full term of slides, kept
+in step with the assignments and exams beside it.
+
+- **[c-lecture](https://github.com/1995parham-teaching/c-lecture)** — Fundamentals of Computer and Programming, an introduction to programming in C. Beamer slides, fourteen lectures
+- **[go-lecture](https://github.com/1995parham-teaching/go-lecture)** — introduction to Go, also the sample code for the Go lecture of the Internet Engineering course
+- **[ie-lecture](https://github.com/1995parham-teaching/ie-lecture)** — Internet Engineering, from back-end to front-end web development. reveal.js slides
+- **[is-lecture](https://github.com/1995parham-teaching/is-lecture)** — Introduction to Information Security: cryptography, access control, and system, web and network defence
 - **[git-exercise](https://github.com/1995parham-teaching/git-exercise)** — the first Git assignment of the AUT course
 
 ## Miscellaneous
@@ -107,7 +116,6 @@ but the exercises hold up.
 <details>
 <summary>C programming</summary>
 
-- [c-lecture](https://github.com/1995parham-teaching/c-lecture) — the C programming course lecture
 - [TanhaDarKhaneh](https://github.com/1995parham-teaching/TanhaDarKhaneh) — learn to code with C at home
 - [c-linked-list-workshop](https://github.com/1995parham-teaching/c-linked-list-workshop) — a workshop on linked lists and structures
 - [c-exam](https://github.com/1995parham-teaching/c-exam) — midterm and final questions
