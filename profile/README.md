@@ -26,6 +26,8 @@ one-size-fits-all rulebook, so where our approach differs from yours, use whatev
 you and your team better — and open an issue to tell us about it. Questions, corrections,
 and contributions are all welcome.
 
+Prefer a single page? **[teaching.1995parham.me](https://teaching.1995parham.me)** lists every course, project, workshop, and tool here with links to each course homepage. It is built from the [1995parham-teaching.github.io](https://github.com/1995parham-teaching/1995parham-teaching.github.io) repository, so an entry is added or corrected there.
+
 ## Start here
 
 | If you want to learn… | Start with |
